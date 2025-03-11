@@ -1,7 +1,5 @@
 # Boris Kotsev
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Boris+Kotsev)
-
 ## About Me
 
 I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria. My passion for technology has led me to explore different domains—from developing video games with C++/SDL to building web applications as a WordPress and Node.js developer. I enjoy tackling challenging problems, mentoring others, and contributing to projects that make a real impact.
@@ -16,7 +14,7 @@ I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria
 ## Education
 
 - **Bachelor of Computer and Software Engineering**  *Technical University, Sofia* (2023 - 2027)
--   At the Technical University, I’m developing skills in programming, mathematics, databases, algorithms, operating systems, networking, and AI. Hands-on projects strengthen my problem solving, teamwork, and technical communication, preparing me to thrive as a versatile software engineer in the dynamic tech industry.
+ At the Technical University, I’m developing skills in programming, mathematics, databases, algorithms, operating systems, networking, and AI. Hands-on projects strengthen my problem solving, teamwork, and technical communication, preparing me to thrive as a versatile software engineer in the dynamic tech industry.
 - **National High School of Mathematics and Science**  
   *Sofia, Bulgaria* (2018 - 2023)
 
