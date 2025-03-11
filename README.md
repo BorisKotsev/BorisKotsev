@@ -50,13 +50,16 @@ Explore a variety of projects that demonstrate modern web development and creati
   An interactive platform dedicated to creating and managing personalized websites, blending modern design with practical functionality.
 
 - **[Ant.bg](https://ant.bg/):**  
+ A WordPress-based educational platform offering courses in mathematics, programming, robotics, astronomy, and Bulgarian language and literature for students from preschool to 12th grade.
 
 - **[Miss World Bulgaria](https://www.missworldbulgaria.org/):**  
   The official website for the Miss World Bulgaria pageant, featuring contestant profiles, event updates, and multimedia content that celebrates beauty, talent, and cultural heritage.
 
 - **[Denitsa Club](https://denitsaclub.com/):**  
+ A WordPress-based travel agency website offering curated vacation packages and excursions to exotic destinations, with a focus on providing the best prices. 
 
 - **[Kerelski.com](https://kerelski.com/):**  
+ A custom HTML and CSS website for Kerelski Barber & Beauty, a barbershop in Sofia, Bulgaria, with an integrated appointment booking system. 
 
 ## Achievements
 
