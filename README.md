@@ -19,7 +19,7 @@ I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria
 
 - **National High School of Mathematics and Science**  
   *Sofia, Bulgaria* (2018 - 2023)  
-  - Studied OOP, data structures, parallel programming, and algorithms (taught by Valentina Ivanova and Krasimir Manev), creating C++/SDL projects and video games.  
+  - Studied OOP, data structures, parallel programming, and algorithms, creating C++/SDL projects and video games.  
 
 - **National Program for Developing IT Skills**  
   (2018 - 2022)  
