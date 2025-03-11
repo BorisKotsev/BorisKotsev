@@ -11,20 +11,6 @@ I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Websites
 - **Tools:** Git, WordPress
 
-## Education 🎓
-
-- **Bachelor of Computer and Software Engineering**  
-  *Technical University, Sofia* (2023 - 2027)  
-  - Gaining experience in programming, mathematics, databases, algorithms, operating systems, networking, and AI through hands-on projects.
-
-- **National High School of Mathematics and Science**  
-  *Sofia, Bulgaria* (2018 - 2023)  
-  - Studied OOP, data structures, parallel programming, and algorithms, creating C++/SDL projects and video games.
-
-- **National Program for Developing IT Skills**  
-  (2018 - 2022)  
-  - Learned C#, OOP, and ASP.NET Core, working with SQL Server Management Studio and the MVC model to create web applications.
-
 ## Experience 💼
 
 - **Teacher - Academy “Nikola Tesla”**  
@@ -60,17 +46,6 @@ Explore a variety of projects that demonstrate modern web development and creati
 
 - **[Kerelski.com](https://kerelski.com/):**  
   A custom HTML and CSS website for Kerelski Barber & Beauty, a barbershop in Sofia, Bulgaria, with an integrated appointment booking system.
-
-## Achievements 🏆
-
-- **Hosting a Programming Competition “ANT OPEN”**  
-  - Created tasks, judged contestants based on code quality and creativity, and awarded winners.
-
-- **National IT Olympiad 2023**  
-  - Competed against top students in Bulgaria in software development challenges. Created an education support website using JavaScript, Node.js, and MongoDB.
-
-- **2nd Place - National Competition Devin “Аз мога, тук и сега” 2022**  
-  - Developed a game within a few hours based on given criteria against 100+ top computing students.
 
 ## Get in Touch 📬
 
