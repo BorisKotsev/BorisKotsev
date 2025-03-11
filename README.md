@@ -27,7 +27,7 @@ I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria
 
 Explore a variety of projects on my [GitHub profile](https://github.com/BorisKotsev?tab=repositories).
 
-## Featured Projects 🌟
+## Websites I've Built 🌐
 
 - **[PrimeGo.bg](https://primego.bg/):**  
   A digital agency website offering innovative IT solutions and custom web development services tailored to modern business needs.
