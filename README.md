@@ -13,19 +13,30 @@ I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria
 
 ## Education
 
-- **Bachelor of Computer and Software Engineering**  *Technical University, Sofia* (2023 - 2027)
- At the Technical University, I’m developing skills in programming, mathematics, databases, algorithms, operating systems, networking, and AI. Hands-on projects strengthen my problem solving, teamwork, and technical communication, preparing me to thrive as a versatile software engineer in the dynamic tech industry.
+- **Bachelor of Computer and Software Engineering**  
+  *Technical University, Sofia* (2023 - 2027)  
+  - Gaining experience in programming, mathematics, databases, algorithms, operating systems, networking, and AI through hands-on projects.
+
 - **National High School of Mathematics and Science**  
-  *Sofia, Bulgaria* (2018 - 2023)
+  *Sofia, Bulgaria* (2018 - 2023)  
+  - Studied OOP, data structures, parallel programming, and algorithms (taught by Valentina Ivanova and Krasimir Manev), creating C++/SDL projects and video games.  
+
+- **National Program for Developing IT Skills**  
+  (2018 - 2022)  
+  - Learned C#, OOP, and ASP.NET Core, working with SQL Server Management Studio and the MVC model to create web applications.
 
 ## Experience
 
-- **Teacher, Academy “Nikola Tesla”** (2022 - 2024)  
-  Taught game development to students aged 10 to 17 using C++ and SDL, enhancing my ability to explain complex concepts and foster growth in programming.
+- **Teacher - Academy “Nikola Tesla”**  
+  *(2022 - 2024)*  
+  - Taught game development to kids aged 10 to 18 using C++ and SDL.
+  - Developed skills in explaining complex concepts, patience and mentoring aspiring programmers.
   
-- **Web/Full Stack Developer, PrimeGo.bg LTD** (2024 - 2025)  
-  Developed personalized websites using WordPress and built an appointment booking system with Node.js, React, and TypeScript.
-
+- **Web/Full Stack Developer - PrimeGo.bg LTD**  
+  *(2024 - 2025)*  
+  - Developed personalized WordPress websites with SEO optimization, mobile responsiveness, and GDPR compliance.
+  - Built an appointment booking system using Node.js, React, and TypeScript.
+    
 ## Projects
 
 Explore a variety of projects that demonstrate modern web development and creative digital solutions. More details are on my [GitHub profile](https://github.com/BorisKotsev).
@@ -49,8 +60,14 @@ Explore a variety of projects that demonstrate modern web development and creati
 
 ## Achievements
 
-- **Programming Competitions:**  
-  I have hosted the “ANT OPEN” competition at the National IT Olympiad 2023 on three separate occasions. I designed challenging tasks for contestants, managed a seven-hour contest period, and evaluated submissions based on task completion, code quality, and creativity. Winners were honored with medals and certificates, highlighting a commitment to excellence and innovation.  
+- **Hosting a Programming Competition “ANT OPEN”**  
+  - Created tasks, judged contestants based on code quality and creativity, and awarded winners.
+
+- **National IT Olympiad 2023**  
+  - Competed against top students in Bulgaria in software development challenges. Created an education support website using JavaScript, Node.js, and MongoDB.
+
+- **2nd Place - National Competition Devin “Аз мога, тук и сега” 2022**  
+  - Developed a game within a few hours based on given criteria against 100+ top computing students.
 
 ## Get in Touch
 
