@@ -39,7 +39,7 @@ I'm an enthusiastic Computer and Software Engineering student in Sofia, Bulgaria
 
 ## Projects 🔗
 
-Explore a variety of projects that demonstrate modern web development and creative digital solutions. More details are on my [GitHub profile](https://github.com/BorisKotsev).
+Explore a variety of projects that demonstrate modern web development and creative digital solutions. More details are on my [GitHub profile](https://github.com/BorisKotsev?tab=repositories).
 
 ## Featured Projects 🌟
 
